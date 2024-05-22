@@ -1,0 +1,4 @@
+  =>  Template Name    : wedding
+
+  changed the front page
+  
